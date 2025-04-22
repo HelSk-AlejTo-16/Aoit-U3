@@ -9,6 +9,10 @@
 | González Avalos César Fernando | 1223100745 |
 | Torres Pérez Leonel Alejandro | 1223100468 |
 ---
+## Carta Firmada.
+
+[Link a la carta](ARQ.LUIS.pdf)
+
 
 ## Enlace de la actividad 1
 
