@@ -1,5 +1,4 @@
 # Aoit-U3
-# AiotU2
 ---
 
 ## Miembros del equipo
@@ -33,22 +32,11 @@
 | Carro Agronomo armado| ![Imagen de WhatsApp 2025-04-21 a las 12 03 36_64b1eacf](https://github.com/user-attachments/assets/da03545d-8fd6-4ea6-af66-6085d864f79c)|
 |Bomba de agua| ![Imagen de WhatsApp 2025-04-21 a las 12 14 31_419ae6ab](https://github.com/user-attachments/assets/c8d36ad5-d1ce-40e2-b644-39cedf9cc227)|
 |Bomba de agua junto con un relevador y el sensor de humedad en circuito| ![Imagen de WhatsApp 2025-04-21 a las 12 14 39_65f7e06c](https://github.com/user-attachments/assets/569d548e-0821-4560-bf7b-c28aa56a1d09)|
+|Presentación del proyecto||![Imagen de WhatsApp 2025-04-21 a las 20 32 16_86662783](https://github.com/user-attachments/assets/a6e3a1e2-5025-467c-aeab-fcb93a06ffd0)|
 
-
-## Evidencia de la construcción del Carro Agrónomo.
-
-| *Nombre Completo*| *Link De Drive* |
-|-----------------|-------------|
-| Chavero Martínez Noé | https://drive.google.com/drive/folders/10LeUlT2R97Bu0VkUGmMCXeduIc6hicku?usp=drive_link |
-| González Avalos César Fernando | https://drive.google.com/drive/folders/12_wlrZIScFmsFvnakPPstHLy9Z_8bw9u?usp=drive_link |
-
-
+## Video de presentación
+https://drive.google.com/file/d/1BJL3FpH71E1Tm-kzmnH_UekYXPzHRxjH/view?usp=sharing
 ---
-## Ejercicios de Soldadura
-## Chavero Martínez Noé
+## Códigos
+Codigo del sistema
 
-
-## Gonzáles Avalos César Fernando
-### Videos del Funcionamiento
-| *Link* |
-|-----------------|
