@@ -38,5 +38,6 @@
 https://drive.google.com/file/d/1BJL3FpH71E1Tm-kzmnH_UekYXPzHRxjH/view?usp=sharing
 ---
 ## Códigos
-Codigo del sistema
+[Codigo del sistema](funcionamientoSistema.ino)
+[Código del Carro](funcionamientoCarro.py)
 
