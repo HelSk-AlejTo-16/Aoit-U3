@@ -11,7 +11,7 @@
 ---
 ## Carta Firmada.
 
-[Link a la carta](ARQ.LUIS.pdf)
+[Ver archivo PDF en línea](https://github.com/HelSk-AlejTo-16/Aoit-U3/blob/main/ARQ.%20LUIS.pdf)
 
 
 ## Enlace de la actividad 1
