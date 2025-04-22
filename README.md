@@ -36,7 +36,7 @@
 | Carro Agronomo armado| ![Imagen de WhatsApp 2025-04-21 a las 12 03 36_64b1eacf](https://github.com/user-attachments/assets/da03545d-8fd6-4ea6-af66-6085d864f79c)|
 |Bomba de agua| ![Imagen de WhatsApp 2025-04-21 a las 12 14 31_419ae6ab](https://github.com/user-attachments/assets/c8d36ad5-d1ce-40e2-b644-39cedf9cc227)|
 |Bomba de agua junto con un relevador y el sensor de humedad en circuito| ![Imagen de WhatsApp 2025-04-21 a las 12 14 39_65f7e06c](https://github.com/user-attachments/assets/569d548e-0821-4560-bf7b-c28aa56a1d09)|
-|Presentación del proyecto||![Imagen de WhatsApp 2025-04-21 a las 20 32 16_86662783](https://github.com/user-attachments/assets/a6e3a1e2-5025-467c-aeab-fcb93a06ffd0)|
+|Presentación del proyecto|![Imagen de WhatsApp 2025-04-21 a las 20 32 15_e73ef065](https://github.com/user-attachments/assets/0b3f732a-85b0-44ed-97c5-243e096a1811)|
 
 ## Video de presentación
 https://drive.google.com/file/d/1BJL3FpH71E1Tm-kzmnH_UekYXPzHRxjH/view?usp=sharing
